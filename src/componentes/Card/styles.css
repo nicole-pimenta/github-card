@@ -1,0 +1,24 @@
+.cards {
+  background-color: rgba(255, 255, 255, 0.37);
+  border-radius: 6px;
+  width: 95%;
+
+  margin: 5px auto;
+  align-items: center;
+}
+
+.card {
+  height: 200px;
+  display: flex;
+}
+
+img {
+  height: 150px;
+  margin: auto 15px;
+}
+
+h3 {
+  color: black;
+  text-align: left;
+  text-transform: capitalize;
+}
