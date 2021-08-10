@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Github Card
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Esse foi um projeto desenvolvido no curso da Kenzie Academy , com objetivo de utilizar a API do GitHub para criar uma aplicação.  
+
+💡Conhecimentos aplicados:
+APIs abertas
+Gestão de erros
+Fundamentos do React
 
 ## Available Scripts
 
@@ -68,5 +73,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# github-card
-# github-card
+
