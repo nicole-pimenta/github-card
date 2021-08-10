@@ -1,22 +1,6 @@
 .App {
   text-align: center;
-}
-.container-input {
-  width: 80vw;
-  display: flex;
-  justify-content: center;
-  margin-bottom: 25px;
-}
-input {
-  width: 400px;
-  margin: 0 15px;
-  border: 1px solid rgba(255, 255, 255, 0.712);
-  border-radius: 4px;
-  padding: 10px;
-  background-color: rgba(207, 191, 191, 0.514);
-  color: white;
-  font-size: 20px;
-  font-weight: 600;
+  height: 100vh;
 }
 
 input:hover {
@@ -66,13 +50,4 @@ button:hover {
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
 }
